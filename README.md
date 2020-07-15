@@ -6,7 +6,7 @@
 
 ## Módulo 1 - Introdução à programação WEB
 
-- [ ] 1. Desafio 1.1 - Variáveis, condicionais e operadores
+- [x] 1. Desafio 1.1 - Variáveis, condicionais e operadores
 - [ ] 2. Desafio 1.2 - Objetos e Vetores
 - [ ] 3. Desafio 1.3 - Funções e estruturas de repetição
 - [ ] 4. Desafio 1.4 - Aplicação: Operações bancárias
