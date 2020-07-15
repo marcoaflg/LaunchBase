@@ -2,12 +2,12 @@
 <img src="https://camo.githubusercontent.com/268b1344409fac98c4eeda520482b6910c4ddcba/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d6c61756e6368626173652f6c6f676f2e706e67" />
 </h1>
 
-<h1 align="center"> Aulas e Desafios do Bootcamp Launchbase </h1>
+<h1 align="center"> Desafios do Bootcamp Launchbase </h1>
 
 ## Módulo 1 - Introdução à programação WEB
 
-- [x] 1. Desafio 1.1 - Variáveis, condicionais e operadores
-- [x] 2. [Desafio 1.2 - Objetos e Vetores](/Desafios/Desafio.1-2)
+- [x] 1. [Desafio 1.1 - Variáveis, condicionais e operadores](/Desafios/Desafio.1-1)
+- [ ] 2. Desafio 1.2 - Objetos e Vetores
 - [ ] 3. Desafio 1.3 - Funções e estruturas de repetição
 - [ ] 4. Desafio 1.4 - Aplicação: Operações bancárias
 
